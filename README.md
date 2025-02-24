@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sky88822
+- 👋 Hi, I’m Sky!
 - 👀 I’m interested in UI/UX design
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on fun meaningful projects!
